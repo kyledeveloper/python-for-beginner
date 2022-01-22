@@ -1,5 +1,5 @@
 
-from project.F1 import Features1
+from F1 import Features1
 
 
 class People:
@@ -8,7 +8,7 @@ class People:
         self.currentage = age
         self.sex = 0
         self.star = star
-        self.personalFeature = Features1
+        self.personalFeature = Features1()
 
 
 if __name__ == '__main__':
