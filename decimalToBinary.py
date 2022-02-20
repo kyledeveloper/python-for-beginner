@@ -1,10 +1,3 @@
-from signal import signal
+userInput = float(input("enter a float point"))
 
 
-input = input("enter a float point")
-
-
-
-
-
-output = b''

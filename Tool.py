@@ -1,6 +1,5 @@
 from importlib.resources import read_text
-from math import ceil
-from operator import indexOf
+
 from random import Random, randint, random
 
 counter = 0
